@@ -13,3 +13,6 @@ Pizza Boy 2D: deliver pizza and earn money to survive.
 
 ##### Compatibility
 Apple Silicon processors
+
+##### Video overview
+[Click to watch](https://youtu.be/U53UVJWZ6wg)
